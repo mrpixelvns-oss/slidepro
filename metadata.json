@@ -1,0 +1,6 @@
+{
+  "name": "SlidePro - Tạo Slide Bài Giảng từ PDF",
+  "description": "Ứng dụng thông minh chuyển đổi tài liệu PDF thành bài giảng slide sinh động, tự động phân tích dàn ý, tạo kịch bản thuyết trình và xuất định dạng PowerPoint (.pptx) chuẩn xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
